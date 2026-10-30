@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/shoo2-sanjuban-utaawase",
  "yomi": "しょうおうにねんさんじゅうばんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（三十番）",
+  "era": "正応2年（1289）",
+  "author": "未詳",
+  "desc": "伏見天皇（女房）を左の一番とする三十番の歌合。延政門院新大納言・教良女・俊兼らが詠み、古歌や漢詩を引く詳しい判詞が付く。"
+ },
  "editions": [
   {
    "pid": "1879502",
